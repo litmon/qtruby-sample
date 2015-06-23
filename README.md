@@ -33,3 +33,12 @@ hello.rbを実行する。
 ```
 $ ruby hello.rb
 ```
+
+## REFERENCES
+ここを参考に作りました↓
+
+[MacにqtbindingとRuguiをインストールする](http://qiita.com/hachi8833/items/c7a35d55f0a557819031)
+
+## FUTURE WORK
+* RuGUI 今度やる。
+
