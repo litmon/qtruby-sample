@@ -41,4 +41,4 @@ $ ruby hello.rb
 
 ## FUTURE WORK
 * RuGUI 今度やる。
-
+* パッケージング 無理そう
